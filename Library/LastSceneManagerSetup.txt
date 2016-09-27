@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/(Test) All Life Must Start from the Shithole.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,21 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\EnemyPatrol.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="26" Column="2" />
+      <File FileName="Assets\Scripts\Pickup.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Damageable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ProjectileManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Laser.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerStatsManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyPatrol.cs" Line="12" Column="33" />
+      <File FileName="Assets\Scripts\Camera.cs" Line="17" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
